@@ -1,0 +1,130 @@
+*{
+	padding:0;
+	margin:0;
+}
+html
+{
+	font-family: "helvetica";
+}
+body
+{
+	background: black;
+}
+
+section.main
+{
+	width: 700px;
+	height: 933px;
+	margin:0 auto ;
+	
+	text-align: center;
+	background: url(../img/bg.jpg);
+}
+
+h1{
+	font-size: 50px ;
+	color: white;
+	text-shadow: 5px 5px 5px #000000;
+
+}
+
+
+h4
+{
+	font-size:40px;
+
+}
+
+h4 a
+{
+	color: white;
+
+}
+
+h4 a:hover
+{
+	color: orange;
+}
+
+section.main-survey
+{
+	width: 700px;
+	height: 933px;
+	margin: 0 auto;
+	background: url(../img/bg.jpg);
+	text-align: center;
+}
+
+ol{
+	list-style: none;
+}
+ol li {
+	list-style: none;
+}
+
+h3{
+	margin-bottom: 0.5em;
+	font-size: 30px;
+	color: white;
+	text-shadow: 3px 3px 3px #000000;
+
+
+}
+
+label.label-inline
+{
+	color: white;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+div.form-field-body article
+{
+	color: white;
+	font-weight: bold;
+	text-align: left;
+	/*border:1px solid red;*/
+	margin:  0.5em auto;
+	width: 450px;
+	padding: 0.5em;
+	font-size: 20px;
+	background: rgba(0,0,0,.5);
+
+}
+
+
+div.submit-button input{
+	color: #fc780c;
+	padding: 0.5em 2em;
+	background: #FFB200;
+	font-size: 18px;
+	font-weight: bold;
+	border:none;
+	
+}
+
+
+div.field-wrapper{
+}
+
+ img.logo
+{
+	width: 40px;
+	position:relative;
+	top:5px ;
+	right: 10px;
+
+}
+
+
+label.label-inline
+{
+	text-shadow: 3px 3px 3px #000000;
+	font-size: 30px;
+}
+
+.shadow
+{
+		text-shadow: 3px 3px 3px #000000;
+}
+
